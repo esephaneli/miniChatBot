@@ -17,7 +17,7 @@ Türkçe etkileşim destekler ve küçük ek özellikler içerir: yapılacaklar 
   - `todo liste` → mevcut yapılacakları listeler.
   - `hepsini sil` → listeyi temizler.
 - **Küçük Bilgi Cevapları:**  
-  - `python nedir`, `pandas nedir`, `hava` gibi hazır mini FAQ.
+  - `hava` gibi hazır mini bilgilendirme.
 - **Duygu Tepkisi:** “üzgün”, “moralim bozuk” gibi ifadelere kısa destek mesajı döner.
 - **Çıkış:** `q`, `çık`, `exit` yazarak sohbeti sonlandırabilirsiniz.
 
